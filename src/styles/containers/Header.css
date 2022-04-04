@@ -1,0 +1,12 @@
+.Header {
+    
+    width: 100vw;
+    height: 75px;
+    background-color: #CC0000;
+    
+}
+
+.Header h1 {
+    margin: 0;
+    font-size: 4rem;
+}
